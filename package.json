@@ -54,6 +54,7 @@
     "grunt-jekyll": "~0.4.2",
     "grunt-jscs": "~2.1.0",
     "grunt-line-remover": "0.0.2",
+    "grunt-link-checker": "^0.1.0",
     "grunt-postcss": "^0.6.0",
     "grunt-sass": "^1.0.0",
     "grunt-saucelabs": "~8.6.0",
